@@ -34,7 +34,7 @@ function Sumaiva (Precio){
 
 //Mismo proceso de arriba
 var funcionsumaiva = Sumaiva(precio);
-precioconiva = funciosumaiva.toFixed(2);
+precioconiva = funcionsumaiva.toFixed(2);
 console.log("El precio con IVA es: "+ precioconiva);
 
 
